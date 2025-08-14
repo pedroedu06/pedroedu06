@@ -1,4 +1,6 @@
 <h1 align="center">Hello Wolrd!</h1>
+<p align="center">Olá tudo bem? Meu nome e Pedro e sou um dev iniciante, no objetivo de se tornar um full stack developer, aqui estão alguns projetos e contribuições!</p> 
+<p align="center">Hi how are you? My name is Pedro and I am a starter dev, with the aim to becoming a full stack developer, here are my projets and contributions</p> 
 
 ###
 
