@@ -8,7 +8,7 @@ Olá! Sou Pedro Eduardo, estudante de Engenharia de Software no terceiro semestr
 Hello! My name is Pedro Eduardo, and I'm currently pursuing a degree in Software Engineering, currently in my third semester. While my primary focus is front-end development, I enjoy exploring various other aspects of programming. In this repository, you'll find a collection of my projects, ranging from practical challenges to study-based experiments.
 
 ## 🎯 Current Role
-- Front-end Developer
+- FULL STACK Developer
 
 ## 🎓 Education
 - 🎓 Software Engineering (UCB)
